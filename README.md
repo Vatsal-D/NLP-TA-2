@@ -4,7 +4,8 @@
 
 
 Input: input.jpg (Newspaper image)
-![input](https://github.com/user-attachments/assets/acf44ecf-944e-40a8-aa15-ff5d4a070314)
+![ip](https://github.com/user-attachments/assets/a5a6958b-33a0-49d7-96b2-54a0c67f9eda)
+
 
 
 🛠️ Processing:
