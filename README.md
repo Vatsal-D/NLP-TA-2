@@ -21,5 +21,7 @@ NLP task: POS tagging, Named Entity Recognition, and language detection
 
 📄 Output: output.txt (extracted + processed results)
 
+https://github.com/Vatsal-D/NLP-TA-2/blob/main/output%20(1).txt
+
 
 https://github.com/Vatsal-D/NLP-TA-2/blob/main/tokenisation%20lemmatisation%20%20stemmetization%20named%20entity%20recognition%20pos%20tagging.txt
