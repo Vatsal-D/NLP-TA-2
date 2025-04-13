@@ -11,7 +11,7 @@ Input: input.jpg (Newspaper image)
 🛠️ Processing:
 
 Image preprocessing (grayscale, thresholding) → processed.png
-![processed image](https://github.com/user-attachments/assets/bb4d8c05-3b66-49a2-8408-3ce9af2d3b4f)
+![op](https://github.com/user-attachments/assets/63ff27b1-a313-4bf4-beb5-f4f9e66aa167)
 
 
 Text extraction using Tesseract OCR (with language support)
