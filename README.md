@@ -1,7 +1,7 @@
 # NLP-TA-2
 
-This project extracts and analyzes handwritten text in a user's mother tongue using OCR and NLP.
-# special note please update the image image location accordingly
+# This project extracts and analyzes handwritten text  as well as printed text in a user's mother tongue using OCR and NLP.
+
 
 Input: input.jpg (Newspaper image)
 ![input](https://github.com/user-attachments/assets/acf44ecf-944e-40a8-aa15-ff5d4a070314)
